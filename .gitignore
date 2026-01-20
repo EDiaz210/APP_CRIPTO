@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Archivos innecesarios
+*.md
+*.bat
+*.ps1
+INSTRUCCIONES_*.txt
+
